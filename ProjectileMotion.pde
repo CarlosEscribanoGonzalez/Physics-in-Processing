@@ -194,7 +194,7 @@ void draw()
       else 
       {
         aux = ballXVerlet;
-        ballXVerlet = 2 * ballXVerlet * ballXVerletOld;
+        ballXVerlet = 2 * ballXVerlet - ballXVerletOld; 
         ballXVerletOld = aux;
         aux = ballYVerlet;
         ballYVerlet = 2 * ballYVerlet - ballYVerletOld + h*h*ballG;

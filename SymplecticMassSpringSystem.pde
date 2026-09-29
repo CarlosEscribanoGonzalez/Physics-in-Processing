@@ -186,21 +186,6 @@ void draw()
     // Add spring and damping forces
     fa.add(SpringElasticForce(xa, xb, springLength0[0], springStiffness));
     fa.add(SpringDampingForce(xa, xb, va, vb, springDamping));
-
- 
- 
- 
-    // Contact handling: loop over nodes and walls
-
- 
- 
- 
-    // Mouse interaction
-    if (mouseId != -1)
-    {
-
-   
-    }
  
     // Numerical integration
     va.add(PVector.mult(fa, h / nodeMass));
