@@ -1,5 +1,3 @@
-# Physics Simulation in Processing
-
 ## Overview
 Collection of physics simulations for the course *Physics in Video Games*, implemented in Processing (Java mode). Each sketch focuses on a different family of techniques: numerical integration, mass-spring systems, penalty-based contact and impulse-based rigid body collisions.
 
