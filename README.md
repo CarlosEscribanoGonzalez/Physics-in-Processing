@@ -13,7 +13,7 @@ Collection of physics simulations for the course *Physics in Video Games*, imple
 * Fixed time step with configurable substeps per rendered frame
 * Ball-wall collision detection against the moving gap
 <p align = "center">
- <img width="718" height="406" alt="Projectile Motion" src="https://github.com/user-attachments/assets/47901a64-8f35-4c79-8e31-f940b7a1cc98" />
+ <img width="576" height="326" alt="Projectile Motion" src="https://github.com/user-attachments/assets/47901a64-8f35-4c79-8e31-f940b7a1cc98" />
 </p>
 
 ## Symplectic Mass-Spring System
@@ -23,7 +23,7 @@ Collection of physics simulations for the course *Physics in Video Games*, imple
 * Symplectic Euler integration (bounded energy error, stable at high stiffness)
 * Gravity and per-node forces accumulated every substep
 <p align = "center">
- <img width="722" height="406" alt="Symplectic Mass-Spring System" src="https://github.com/user-attachments/assets/b94d44ee-4e3d-4b5b-a445-375454210edf" />
+ <img width="576" height="326" alt="Symplectic Mass-Spring System" src="https://github.com/user-attachments/assets/b94d44ee-4e3d-4b5b-a445-375454210edf" />
 </p>
 
 ## Soft Body with Penalty Contact
@@ -33,7 +33,7 @@ Collection of physics simulations for the course *Physics in Video Games*, imple
 * Mouse interaction through a zero-rest-length spring attached to the grabbed node
 * Configurable spring, contact and damping stiffness
 <p align = "center">
- <img width="722" height="404" alt="Penalty Contact" src="https://github.com/user-attachments/assets/d29cd3f6-bb31-4e82-b392-fcd68e0907e4" />
+ <img width="576" height="326" alt="Penalty Contact" src="https://github.com/user-attachments/assets/d29cd3f6-bb31-4e82-b392-fcd68e0907e4" />
 </p>
 
 ## Rigid Body with Impulse-Based Collisions
@@ -44,7 +44,7 @@ Collection of physics simulations for the course *Physics in Video Games*, imple
 * Collision impulse with coefficient of restitution, including the angular contribution of the contact point
 * Controllable cannon to fire bullets at the box
 <p align = "center">
- <img width="720" height="406" alt="Impulse-based Collisions" src="https://github.com/user-attachments/assets/44efa0f0-0bfe-47bc-8ad5-c1fb7f3e0794" />
+ <img width="576" height="326" alt="Impulse-based Collisions" src="https://github.com/user-attachments/assets/44efa0f0-0bfe-47bc-8ad5-c1fb7f3e0794" />
 </p>
 
 ## Installation guide
